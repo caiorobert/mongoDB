@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "696d6e763e62f5185d44152e"
+  },
+  "nome": "Alimentos"
+},
+{
+  "_id": {
+    "$oid": "696d6e763e62f5185d44152f"
+  },
+  "nome": "Limpeza Intima"
+},
+{
+  "_id": {
+    "$oid": "696d6e763e62f5185d441530"
+  },
+  "nome": "Produtos de Limpeza"
+},
+{
+  "_id": {
+    "$oid": "696d6e763e62f5185d441531"
+  },
+  "nome": "Produtos de Tecnologia"
+}]

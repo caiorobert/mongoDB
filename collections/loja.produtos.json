@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "696d5357369de5765944152f"
+  },
+  "codigoBarras": 12345678910,
+  "nome": "Doritos",
+  "marca": "Elma Chips",
+  "valor": 13.99,
+  "quantidade": 10,
+  "categoria": {
+    "$oid": "696d6e763e62f5185d44152e"
+  }
+},
+{
+  "_id": {
+    "$oid": "696d676f2ead761b1b44152e"
+  },
+  "codigoBarras": "123456",
+  "nome": "Doritos",
+  "marca": "Elma Chips",
+  "valor": 10,
+  "quantidade": 5,
+  "categoria": {
+    "$oid": "696d6e763e62f5185d44152e"
+  }
+},
+{
+  "_id": {
+    "$oid": "696d676f2ead761b1b44152f"
+  },
+  "codigoBarras": "123567",
+  "nome": "Coca Cola",
+  "marca": "Cola Cola",
+  "valor": 10,
+  "quantidade": 3,
+  "categoria": {
+    "$oid": "696d6e763e62f5185d44152e"
+  }
+},
+{
+  "_id": {
+    "$oid": "696d676f2ead761b1b441530"
+  },
+  "codigoBarras": "654321",
+  "nome": "Papel Higiênico",
+  "marca": "Neve",
+  "valor": 20,
+  "quantidade": 2,
+  "categoria": {
+    "$oid": "696d6e763e62f5185d44152f"
+  }
+}]
